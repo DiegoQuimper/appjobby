@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74379238101",
+    "project_id": "jooby-3ebdc",
+    "storage_bucket": "jooby-3ebdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74379238101:android:1f9119fa77b6873c16205c",
+        "android_client_info": {
+          "package_name": "com.example.appjobby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74379238101-g58a5dtkjca7qaeksl9jvvobmdsq3b3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tu8QHecA8PbttukNAyRTu40MSQ79UQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74379238101-g58a5dtkjca7qaeksl9jvvobmdsq3b3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
